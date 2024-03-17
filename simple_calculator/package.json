@@ -1,0 +1,19 @@
+{
+  "name": "simple_calculator",
+  "version": "1.0.0",
+  "description": "simple calculator with typescipt,node,js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "types":"inquirer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sadaf Khalid",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
